@@ -1,2 +1,2 @@
 #!/bin/bash
-SSH https://www.youtube.com/watch?v=Ilp22CRjg3U
+telnet https://www.youtube.com/watch?v=Ilp22CRjg3U
